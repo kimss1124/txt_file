@@ -1,0 +1,22 @@
+지금까지 한 작업을 깃허브에 올리고 싶어
+
+
+Git/hub,   browser control     law.md; 생성 후 규칙을 정한다.(예; 사규)
+
+skill
+
+규칙  workspace
+
+오케스트레이션;  AI를 지휘하는 법
+
+Agent 
+
+law.md 파일을 먼저 읽고, skill.md를 읽는다.
+
+Mark down; 공문서 형태, 논문 형식
+
+
+세컨드 브레인
+
+
+에이전트에 search_web(query) 툴을 추가해 보세요. 더미 데이터를 반환하는 함수로 만들고, "최근 AI 에이전트 트렌드를 검색해줘"

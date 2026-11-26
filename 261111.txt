@@ -1,0 +1,19 @@
+https://platform.openai.com/api-keys
+
+
+
+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
+
+
+import openai
+openai.api_key = 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
+
+
+따뜻한 분위기로 만들어 줘, 따뜻한 분위기로 만들어 줘, 실제 사진처럼 표현해 줘
+
+
+https://vrew.voyagerx.com/ko
+
+
+https://www.framer.com/features/ai
+

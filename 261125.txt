@@ -1,0 +1,34 @@
+1. Agent 사용; Model은 용도에 맞게 사용한다.
+
+Ollama
+
+Ollama는 로컬 환경에서 대규모 언어 모델(LLM)을 쉽게 실행할 수 있게 해주는 오픈소스 도구다.
+쉽게 말해서 ChatGPT 같은 AI를 내 컴퓨터에서 직접 돌릴 수 있게 해주는 프로그램이라고 보면 된다.
+인프라 없이 개인 PC에서 곧바로 ChatGPT‑유사 AI 챗 기능을 체험할 수 있도록 설계되어 있다. 
+출처: https://goddaehee.tistory.com/381 [갓대희의 작은공간:티스토리]
+
+
+
+http://www.giee.co.kr/main의 모든 내용, 사진, 이미지
+
+파일을 활용하여 회사소개 부분을 pop up 메뉴로 작성해주세요. 인사말, 회사개요, 면허및자격으로 구성해주세요.
+
+
+
+
+https://kimss1124.github.io/GIE/
+
+
+
+react_json_agent.py
+
+pip install langchain langchain-anthropic langgraph langchain-core
+
+langgraph_react.py
+
+
+state_graph.py
+
+
+
+

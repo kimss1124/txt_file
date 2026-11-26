@@ -1,0 +1,27 @@
+AI agent
+1. 수익 창출
+2. 업무 병목 현상 제거
+3. 지식 정리
+
+제시하신 세 가지 핵심 목적으로 활용할 수 있는 대표적인 AI Agent 유형과 추천 솔루션을 정리해 드립니다.1. 목적별 핵심 역할을 수행하는 AI Agent수익 창출 (Revenue Generation)마케팅·영업 지원 Agent: 고객 데이터 관리, 이메일 아웃리치 자동화, 맞춤형 마케팅 메시지 생성, 리드(Lead) 발굴 및 스코어링을 통해 매출 전환율을 높입니다.AI 커머스/챗봇 Agent: 24시간 실시간 고객 상담, 상품 추천, 자동 결제 보조 등을 진행하여 구매 전환을 유도합니다.업무 병목 현상 제거 (Workflow Automation)워크플로우 자동화 Agent: 부서 간 단순 반복 업무(데이터 입력, 정기 리포트 작성, 일정 조정, 결재 문서 분류 등)를 연결하여 작업 이관 시간을 단축합니다.프로젝트/태스크 관리 Agent: 업무 우선순위 배정, 진행 상황 추적, 담당자 알림을 자동화하여 소통 지연을 줄입니다.지식 정리 (Knowledge Management)사내 RAG(검색 증강 생성) 기반 Agent: 도큐먼트, PDF, Slack/Notion 내 파편화된 지식을 학습하여 질의응답 형태로 즉시 정보를 찾아줍니다.문서 요약 및 지식베이스 구축 Agent: 회의록 자동 작성, 리서치 자료 요약, 카테고리별 데이터베이스 구축을 수행합니다.2. 대표적인 추천 AI Agent 솔루션분류플랫폼 / 도구주요 특징 및 기능통합 워크플로우 & 업무 자동화Zapier Central / Make애플리케이션 간 업무 자동화, 데이터 이관, 조건별 동작 설정을 통해 업무 병목 제거에 특화지식 정리 & 사내 AI 구축Notion AI / Custom GPTs (OpenAI)사내 문서를 지식베이스화하여 즉시 검색·요약(지식 정리) 및 문서 작성 자동화영업 & 마케팅 (수익 창출)HubSpot AI / Salesforce Agentforce타겟 고객 분석, 자동 캠페인 집행, 리드 관리로 수익 창출 지원멀티태스킹 봇 자동 구축Coze / Dify노코드/로우코드로 수익화용 커스텀 챗봇, 지식 기반 검색, 워크플로우를 직접 설계 가능3. 어떤 솔루션을 선택해야 할까요?단일 도구로 빠르게 시작하고 싶다면: Notion AI 또는 ChatGPT Team/Enterprise(Custom GPTs)사내 자료를 업로드해 지식 정리를 끝내고, 마케팅/영업용 프롬프트와 업무 매뉴얼을 등록해 수익 창출과 병목 제거에 즉시 활용할 수 있습니다.복잡한 기존 시스템 간 연동이 필요하다면: Zapier나 Make 기반의 워크플로우 Agent이메일, CRM, 슬랙, 구글 드라이브 등을 하나로 연결해 자동화 시스템을 구축하기에 최적입니다.
+
+
+자료관리;   https://keep.google.com/
+
+
+https://www.eglslab.com/
+
+https://academy.eglslab.com/
+
+
+https://ryujean77.github.io/ryujean-slides/workbox-class/slides.pdf
+
+
+www.e8ight.co.kr
+
+
+https://www.hyperez.io
+
+
+인공지능 윤리기준
+
